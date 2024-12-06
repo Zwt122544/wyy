@@ -71,6 +71,7 @@ def wx_push(message):
             123
         ],
         "uids": [
+            "UID_XHNfkTMaoZ9QWKQhhrRG8iHBKSJu",
             "UID_XHNfkTMaoZ9QWKQhhrRG8iHBKSJu"
         ],
         "url": "https://wxpusher.zjiecode.com",
